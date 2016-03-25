@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Developer/android/Turingcat/.git'
+let g:netrw_dirhist_2='/Developer/android/DongTu/.git'
+let g:netrw_dirhist_3='/Developer/IOS/turingios/TuringCat'
+let g:netrw_dirhist_4='/Developer/IOS/turingios/build'
+let g:netrw_dirhist_5='/Developer/IOS/turingios/TuringCat.xcodeproj'
